@@ -1,0 +1,14 @@
+body{
+    background-color: gray;
+}
+    h1{
+    color:rgb(115, 36, 131);
+    font-size: 40px;
+    text-align: center;
+    line-height: 40px;
+
+}
+ tr,th,td{
+    text-align: center;
+    color: white;
+}
